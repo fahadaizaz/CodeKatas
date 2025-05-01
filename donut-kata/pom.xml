@@ -37,7 +37,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
 
-        <kotlin.version>1.9.21</kotlin.version>
+        <kotlin.version>2.1.20</kotlin.version>
 
         <eclipse-collections.version>11.1.0</eclipse-collections.version>
         <junit5.version>5.10.1</junit5.version>
